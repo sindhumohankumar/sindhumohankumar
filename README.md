@@ -10,6 +10,7 @@ Data & Integration: JSON, APIs, and version control with GIT.
 New Explorations: Recently, I’ve delved into the world of React.js, eager to expand my skillset.
 I’m a strong believer in continuous learning and staying updated with the latest advancements in the web development landscape. I’m always looking for new challenges and opportunities to bring my skills to the table.
 
+<a href="https://sindhu2704.wordpress.com"><img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/wordpress--v1.png" alt="wordpress--v1"/></a>
 <!--
 **sindhuperiasamy/sindhuperiasamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
