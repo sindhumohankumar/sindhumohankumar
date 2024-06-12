@@ -12,6 +12,7 @@ I’m a strong believer in continuous learning and staying updated with the late
 
 <a href="https://sindhu2704.wordpress.com" target="_blank"><img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/wordpress--v1.png" alt="wordpress--v1"/></a>
 <a href="https://stackoverflow.com/users/5337745/sindhu?tab=profile" target="_blank"><img width="30" height="30" src="https://img.icons8.com/?size=100&id=13955&format=png&color=000000" alt="wordpress--v1"/></a>
+<a href="https://www.linkedin.com/in/sindhuperiasamy/" target="_blank"><img width="30" height="30" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="wordpress--v1"/></a>
 <!--
 **sindhuperiasamy/sindhuperiasamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
