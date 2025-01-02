@@ -13,6 +13,14 @@ I’m a strong believer in continuous learning and staying updated with the late
 <a href="https://sindhu2704.wordpress.com" target="_blank"><img width="30" height="30" src="https://img.icons8.com/ios-glyphs/30/wordpress--v1.png" alt="wordpress--v1"/></a>
 <a href="https://stackoverflow.com/users/5337745/sindhu?tab=profile" target="_blank"><img width="30" height="30" src="https://img.icons8.com/?size=100&id=13955&format=png&color=000000" alt="wordpress--v1"/></a>
 <a href="https://www.linkedin.com/in/sindhuperiasamy/" target="_blank"><img width="30" height="30" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="wordpress--v1"/></a>
+
+<h2>🎓 Certifications</h2>
+<ul>
+  <li><a href="#" target="_blank">Coding Challenge</a></li>
+  <li><a href="https://www.udemy.com/certificate/UC-f9310f28-8e31-454e-bda4-2eef7ccc6a2f/" target="_blank">OpenSSL</a></li>
+  <li><a href="https://www.credly.com/badges/127d628c-3462-40fe-bc5c-594b3c6cd932/linked_in_profile" target="_blank">Adobe Professional – Adobe Campaign Standard Developer</a></li>
+</ul>
+
 <!--
 **sindhuperiasamy/sindhuperiasamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
