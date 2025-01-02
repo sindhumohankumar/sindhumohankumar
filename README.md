@@ -16,7 +16,6 @@ I’m a strong believer in continuous learning and staying updated with the late
 
 <h2>🎓 Certifications</h2>
 <ul>
-  <li><a href="#" target="_blank">Coding Challenge</a></li>
   <li><a href="https://www.udemy.com/certificate/UC-f9310f28-8e31-454e-bda4-2eef7ccc6a2f/" target="_blank">OpenSSL</a></li>
   <li><a href="https://www.credly.com/badges/127d628c-3462-40fe-bc5c-594b3c6cd932/linked_in_profile" target="_blank">Adobe Professional – Adobe Campaign Standard Developer</a></li>
 </ul>
